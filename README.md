@@ -2,13 +2,12 @@
 
 ## Visuals (via Processing)
 The visuals are coded in java within the Processing application. Visit [Processing](https://processing.org/) for endless tutorials, references, tools, and libraries. 
-
 *free*
 
 ## Audio (via Max)
 The audio is composed through manipulating the frequency, time, and sequence of sample audio files and 'wind' synthesizer created with [Max software](https://cycling74.com/), which also contains lots of resources for learning Max.
 
-*free to access projects, subscriptions/purchase available to use software*
+*free for 30 days (& always to view projects), subscriptions/purchase available*
 
 ## OSC (Open Sound Control)
 In order to link up the sound in Max and visuals in processing to interact with each other, the events are sent and received through OSC, which enables messaging between each software through a listening port. This may be difficult to follow if you are unfamiliar with the concept, so I would suggest looking up a tutorial to set up OSC for both Processing and Max, or checking out the links below.
