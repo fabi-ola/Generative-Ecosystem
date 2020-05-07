@@ -6,7 +6,6 @@ The visuals are coded in java within the Processing application. Visit [Processi
 
 ## Audio (via Max)
 The audio is composed through manipulating the frequency, time, and sequence of sample audio files and 'wind' synthesizer created with [Max software](https://cycling74.com/), which also contains lots of resources for learning Max.
-
 *free for 30 days (& always to view projects), subscriptions/purchase available*
 
 ## OSC (Open Sound Control)
